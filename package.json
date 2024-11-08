@@ -1,0 +1,11 @@
+{
+  "name": "flimweb",
+  "version": "1.0.0",
+  "description": "Web xem flim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tong Duc Thanh Nam",
+  "license": "ISC"
+}
